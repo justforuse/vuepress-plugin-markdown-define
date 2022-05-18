@@ -1,0 +1,23 @@
+{
+  "name": "vuepress-plugin-markdown-define",
+  "version": "1.0.0",
+  "description": "define variables in markdown file for vuepress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justforuse/vuepress-plugin-markdown-define.git"
+  },
+  "keywords": [
+    "vuepress",
+    "vue"
+  ],
+  "author": "allen <allenforuse@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/justforuse/vuepress-plugin-markdown-define/issues"
+  },
+  "homepage": "https://github.com/justforuse/vuepress-plugin-markdown-define#readme"
+}
