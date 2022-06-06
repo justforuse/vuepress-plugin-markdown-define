@@ -1,6 +1,6 @@
 {
   "name": "vuepress-plugin-markdown-define",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "define variables in markdown file for vuepress",
   "main": "index.js",
   "scripts": {
