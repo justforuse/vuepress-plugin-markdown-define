@@ -12,6 +12,7 @@
   },
   "keywords": [
     "vuepress",
+    "plugin",
     "vue"
   ],
   "author": "allen <allenforuse@gmail.com>",
