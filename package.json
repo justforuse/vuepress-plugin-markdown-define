@@ -4,7 +4,8 @@
   "description": "define variables in markdown file for vuepress",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
   },
   "repository": {
     "type": "git",
@@ -20,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/justforuse/vuepress-plugin-markdown-define/issues"
   },
-  "homepage": "https://github.com/justforuse/vuepress-plugin-markdown-define#readme"
+  "homepage": "https://github.com/justforuse/vuepress-plugin-markdown-define#readme",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  }
 }
